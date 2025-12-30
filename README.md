@@ -91,3 +91,9 @@ Work with relational datasets
 Apply analytical thinking using SQL
 
 Write clean, readable, and interview-ready SQL code
+## Power BI Dashboard
+• Built an interactive Power BI dashboard to analyze revenue, orders, and customer behavior  
+• Designed KPIs for Total Revenue, Total Orders, Total Customers, and Average Order Value  
+• Created bar charts for revenue by restaurant and city, and a customer-level performance table  
+• Added slicers for city, restaurant, and order date to enable dynamic filtering
+
