@@ -97,3 +97,7 @@ Write clean, readable, and interview-ready SQL code
 • Created bar charts for revenue by restaurant and city, and a customer-level performance table  
 • Added slicers for city, restaurant, and order date to enable dynamic filtering
 
+
+## Dashboard Preview
+![Dashboard](Screenshot 2025-12-30 234158.png)
+
